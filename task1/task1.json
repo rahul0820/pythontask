@@ -1,0 +1,19 @@
+{"Personal_Details" : [
+    {
+        "name":"Shaym Sundar", 
+        "age":30, 
+        "car": "Gareeb hu", 
+        "address" : "Gali no 420, sannata mohalla", 
+        "phno": 1234567890, 
+        "email" : "test@fb.com"
+    },
+    {
+        "name":"Kon Hai", 
+        "age": 104, 
+        "car":"Hai hi Nahi", 
+        "address" : "Gali no 420, sannata mohalla", 
+        "phno": 1234567890, 
+        "email" : "kyahua@gmail.com"
+
+    }
+]}

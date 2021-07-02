@@ -1,0 +1,5 @@
+json file - create
+{"name":"John", "age":30, "car":null, address, phno, email lene hai}
+create CSV from jSon
+[{"name":"John", "age":30, "car":null, address, phno, email lene hai}, {"name":"John", "age":30, "car":null, address, phno, email lene hai}]
+
