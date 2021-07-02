@@ -6,9 +6,9 @@ with open('task1.json') as json_file:
  
 personal_data = data['Personal_Details']
  
-new_file = open('new_file.csv', 'w')
+personal_data_file = open('personal_data_file.csv', 'w')
  
-csv_writer = csv.writer(new_file)
+csv_writer = csv.writer(personal_data_file)
  
 count = 0
  
@@ -21,4 +21,4 @@ for info in personal_data:
  
     csv_writer.writerow(info.values())
  
-new_file.close()
+personal_data_file.close()
