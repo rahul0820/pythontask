@@ -1,0 +1,4 @@
+app name - vaccine portal
+Login in vaccination app
+Register in vaccination app - FN, LN, email, number, age, address, password
+Submit - Thank you

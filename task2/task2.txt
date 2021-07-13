@@ -1,0 +1,9 @@
+Create - Python app with Flask:
+Db MySql (table - prodcut table)
+connection creation.
+1. crud operation
+a. /create - Json body (product name, type, price, color, ProductID)
+b. /read 
+c. /read/productID
+c./update
+d. /delete
