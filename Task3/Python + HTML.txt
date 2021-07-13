@@ -1,0 +1,4 @@
+Flask app - localhost:8000
+a. /login (Html page) https://www.javatpoint.com/html-login-form
+b. /register
+c. /home
